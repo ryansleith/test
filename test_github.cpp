@@ -1,4 +1,6 @@
-//Ryan Sleith 14277382 159.234 Assignment
+//Ryan Sleith 14277382 
+//Matthew Kitch 14262318
+//159.234 Assignment
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
